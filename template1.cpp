@@ -8,7 +8,7 @@ template<class T>T add(T &a, T &b)
 int main()
 {
 	int i =3;
-	int j=4;
+	int j =4;
 	float m = 3.2;
 	float n = 2.1;
 	
